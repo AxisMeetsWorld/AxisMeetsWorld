@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AxisMeetsWorld...hello world!
-- 🌱 I’m currently learning how machines learn; specifically naive bayes and random forest.
+- 🌱 I’m currently learning how machines learn; specifically learning neural networks and PyTorch.
 - 💞️ I’m looking to collaborate on machine learning and statistically based projects.
 
 <!---
